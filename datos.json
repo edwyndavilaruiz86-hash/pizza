@@ -1,0 +1,84 @@
+{
+  "agenda_compras": [
+    {
+      "id": 1,
+      "ingrediente": "Harina de trigo",
+      "cantidad": 5,
+      "unidad": "kg",
+      "prioridad": "alta",
+      "estado": "pendiente"
+    },
+    {
+      "id": 2,
+      "ingrediente": "Levadura",
+      "cantidad": 200,
+      "unidad": "g",
+      "prioridad": "alta",
+      "estado": "pendiente"
+    },
+    {
+      "id": 3,
+      "ingrediente": "Salsa de tomate",
+      "cantidad": 3,
+      "unidad": "litros",
+      "prioridad": "media",
+      "estado": "pendiente"
+    },
+    {
+      "id": 4,
+      "ingrediente": "Queso mozzarella",
+      "cantidad": 4,
+      "unidad": "kg",
+      "prioridad": "alta",
+      "estado": "pendiente"
+    },
+    {
+      "id": 5,
+      "ingrediente": "Jamón",
+      "cantidad": 1,
+      "unidad": "kg",
+      "prioridad": "media",
+      "estado": "pendiente"
+    },
+    {
+      "id": 6,
+      "ingrediente": "Pepperoni",
+      "cantidad": 1,
+      "unidad": "kg",
+      "prioridad": "media",
+      "estado": "pendiente"
+    },
+    {
+      "id": 7,
+      "ingrediente": "Piña",
+      "cantidad": 3,
+      "unidad": "piezas",
+      "prioridad": "baja",
+      "estado": "pendiente"
+    },
+    {
+      "id": 8,
+      "ingrediente": "Aceite de oliva",
+      "cantidad": 1,
+      "unidad": "litro",
+      "prioridad": "media",
+      "estado": "pendiente"
+    },
+    {
+      "id": 9,
+      "ingrediente": "Sal",
+      "cantidad": 1,
+      "unidad": "kg",
+      "prioridad": "baja",
+      "estado": "pendiente"
+    },
+    {
+      "id": 10,
+      "ingrediente": "Orégano",
+      "cantidad": 150,
+      "unidad": "g",
+      "prioridad": "baja",
+      "estado": "pendiente"
+    }
+  ]
+}
